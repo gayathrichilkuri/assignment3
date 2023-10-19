@@ -34,6 +34,7 @@ body{
 }
 #nav {
   grid-area: nav;
+  
 }
 #img {
   grid-area: img;
@@ -221,6 +222,7 @@ a {
   margin: 10px;
   padding: 5px 15px;
   padding-right: 20px;
+ 
   /* border: 2px solid #638C80; */
   border-radius: 5px;
   font-weight: bold;
